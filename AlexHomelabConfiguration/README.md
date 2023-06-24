@@ -1,5 +1,5 @@
 Hello! 
-
+ :D
 I love you and I hope your day is going well so far!
 
 This file contains the general details you will need, as well as your credentials, to get started working on your HomeLab setup!
@@ -31,7 +31,7 @@ User LAN: 192.168.0.0/24 via 192.168.0.1
 
 Homelab LAN: 10.1.1.0/24 via 10.1.1.1
 
-When networking in the VMWare environment, Always choose the VM Network, not External VM Network.
+When networking in the VMWare environment, Always choose the VM Network, not External VM Network. 
 
 # Servers already existing in the environment that you may want to interact with: #
 
